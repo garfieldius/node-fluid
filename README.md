@@ -8,10 +8,10 @@ Before using it, make sure PHP 7.0 or newer is installed on the system. then ins
 
 ```
 # npm
-npm install --save fluid
+npm install --save node-fluid
 
 # yarn
-yarn add fluid
+yarn add node-fluid
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ The module `fluid` will return a "class" which can be used to render data. Fluid
 First, load the module and create a new view:
 
 ```js
-const fluid = require("fluid")
+const fluid = require("node-fluid")
 const view = new fluid();
 ```
 

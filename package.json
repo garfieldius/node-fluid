@@ -1,5 +1,5 @@
 {
-  "name": "fluid",
+  "name": "node-fluid",
   "version": "1.0.0",
   "description": "Integrates the fluid templating engine into node",
   "main": "index.js",
