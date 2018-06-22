@@ -1,0 +1,13 @@
+{
+    "name": "garfieldius/fluid-phar-compiler",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Georg Großberger",
+            "email": "contact@grossberger-ge.org"
+        }
+    ],
+    "require": {
+        "typo3fluid/fluid": "^2.5"
+    }
+}

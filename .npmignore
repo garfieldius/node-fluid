@@ -1,0 +1,5 @@
+/php
+/.idea
+/.editorconfig
+/Makefile
+!/fluid.phar

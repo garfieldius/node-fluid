@@ -1,0 +1,9 @@
+{
+  "name": "fluid",
+  "version": "1.0.0",
+  "description": "Integrates the fluid templating engine into node",
+  "main": "index.js",
+  "repository": "https://github.com/garfieldius/node-fluid/",
+  "author": "Georg Großberger <contact@grossberger-ge.org>",
+  "license": "Apache-2.0"
+}
